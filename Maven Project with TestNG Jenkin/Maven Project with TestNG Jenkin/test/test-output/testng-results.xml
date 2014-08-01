@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite2" duration-ms="37" started-at="2014-05-16T16:07:06Z" finished-at="2014-05-16T16:07:06Z">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="37" started-at="2014-05-16T16:07:06Z" finished-at="2014-05-16T16:07:06Z">
+      <class name="com.test.PaymentTest">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.test.PaymentTest@7b8269b6]" name="testcase1" duration-ms="0" started-at="2014-05-16T11:07:06Z" finished-at="2014-05-16T11:07:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:com.test.PaymentTest@7b8269b6]" name="testcase2" duration-ms="1" started-at="2014-05-16T11:07:06Z" finished-at="2014-05-16T11:07:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- com.test.PaymentTest -->
+      <class name="com.test.Pay">
+        <test-method status="PASS" signature="t()[pri:0, instance:com.test.Pay@624a240d]" name="t" duration-ms="21" started-at="2014-05-16T11:07:06Z" finished-at="2014-05-16T11:07:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t -->
+      </class> <!-- com.test.Pay -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite2 -->
+</testng-results>

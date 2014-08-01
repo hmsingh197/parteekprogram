@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="har-PC" name="com.tests.Test1" tests="1" failures="0" timestamp="22 May 2014 19:49:41 GMT" time="0.019" errors="0">
+  <testcase name="ttest" time="0.008" classname="com.tests.Test1"/>
+</testsuite>
